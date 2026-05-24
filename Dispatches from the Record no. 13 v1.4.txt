@@ -1,0 +1,284 @@
+﻿Dispatches from the Record: Clerk Notes No. 13
+State Action
+When Private-Looking Conduct Carries Public Authority
+1. Where I’m Starting
+State Action used to sound to me like a technical gatekeeping doctrine.
+Was this government action or private action?
+That is the question, but it is not quite the whole question. It is too thin if heard only as a label exercise.
+The sharper question is:
+Whose authority did the act carry?
+A person can be harmed by a private actor. That harm can be real. It can be serious. It can be cruel, coercive, unfair, abusive, or unlawful under some other body of law.
+But constitutional responsibility usually requires more.
+The act must be attributable to public authority.
+That is the part I did not fully appreciate at first. State Action is not asking whether harm happened. It is asking whether the Constitution has an owner for that harm. It asks whether the challenged conduct belongs, in the constitutional sense, to public power.
+So the structural compression I am working with is this:
+State Action asks when the civic body owns the act.
+That is a strange phrase at first. But it helps.
+If the civic body owns the act, constitutional limits may attach. If the civic body does not own the act, the harm may still matter, but it may belong somewhere else: tort law, contract law, employment law, criminal law, statutory civil-rights law, professional discipline, administrative regulation, or ordinary civic judgment.
+That distinction can be painful. It can feel like the system is saying the harm does not count.
+But that is not quite right.
+State Action does not say private harm is unreal. It says not every real harm is constitutional harm.
+The doctrine is trying to hold a boundary.
+And once I saw that, State Action stopped sounding like a technical escape hatch. It started sounding like a discipline of attribution.
+2. What This Note Is Not
+This note is not legal advice.
+Strictly speaking, State Action often appears most sharply in Fourteenth Amendment and § 1983 contexts. I am using it here in its structural sense: the problem of when conduct is attributable to public authority strongly enough for constitutional responsibility to attach. 
+It does not replace State Action doctrine, civil-rights litigation, § 1983 analysis, public-function doctrine, joint-action doctrine, state-compulsion doctrine, entwinement analysis, official-capacity analysis, or any other technical legal test.
+It does not claim every private harm is constitutional harm.
+It does not claim private-looking actors can never become constitutionally accountable.
+It does not decide hard State Action cases.
+It does not try to make the public/private boundary easy.
+It offers a structural reading of why the doctrine exists: constitutional law must distinguish private injury from conduct that carries public authority.
+That distinction matters in both directions.
+If State Action is too broad, constitutional law begins to swallow private life.
+If State Action is too narrow, public power can disappear into private form.
+The doctrine has to hold both dangers at once.
+3. The Doctrine
+State Action asks whether challenged conduct is sufficiently attributable to government for constitutional purposes.
+That sentence sounds dry, but the problem underneath it is not dry at all.
+The Constitution restrains public power. It does not directly constitutionalize every private wrong. A neighbor, employer, business, platform, landlord, school, association, hospital, contractor, or private institution may cause serious harm without automatically becoming the State.
+That is one side.
+But public power can also move through private-looking channels.
+A private actor may perform a traditionally exclusive public function. The government may compel or significantly encourage private conduct. Public officials and private actors may act jointly. A private entity may become entwined with public authority, though entwinement is a narrower and contested path. A government may delegate a public function or use private contractors in ways that sometimes, but not automatically, carry public authority. An official may misuse power made possible by office.
+In those situations, the question becomes harder.
+The actor may look private. The form may look private. The immediate hands may be private hands.
+But the constitutional question is not only who physically moved.
+It is whether the act carried public capacity.
+That is why State Action is not merely a doctrine about identity. It is a doctrine about attribution.
+The law has to ask:
+Who acted?
+In what capacity?
+With whose authority?
+Through what pathway?
+Who supplied the power?
+Who ratified the result?
+Who owns the consequence?
+Specific State Action tests carve up these questions differently. Public function, compulsion, joint action, entwinement, delegation, and official-capacity analysis do not all ask the same thing in the same way. But structurally, they orbit the same attribution problem: whether private-looking conduct carries public authority strongly enough for constitutional responsibility to attach. 
+A private person can claim authority falsely. That is not enough by itself.
+A private person can be powerful. That is not enough by itself.
+A private institution can shape public life. That is not always enough by itself.
+The constitutional question is whether the authority behind the action is traceable to the civic body.
+That is the gate.
+State Action asks whether the actor was merely private, or whether the act carried public authority strongly enough that constitutional responsibility attaches.
+4. Trying the Physiology Lens
+In Constitutional Physiology terms, not every cell acts for the whole body.
+That sentence helps me.
+A private actor may act as a private cell inside the civic corpus. That actor may harm another person. The harm may be real. It may deserve response. But the constitutional civic body may not own the act in the specific way needed for constitutional responsibility.
+That is not because the harmed person does not matter.
+It is because the constitutional question is about public authority.
+A private cell can damage another cell without the whole body authorizing, carrying, or owning that damage.
+But sometimes the situation changes.
+Sometimes a private-looking actor is not simply acting privately. The actor may be carrying civic-body capacity. The actor may be performing a delegated public function. The actor may be following state compulsion or significant encouragement. The actor may be acting jointly with officials. The actor may be entwined with public systems. The actor may be using power made possible by public office.
+Then the act begins to carry a different kind of force.
+It is no longer only private cell activity. It may be conduct carrying civic-body authority.
+That is where State Action begins to make sense to me.
+State Action is the doctrine trying to distinguish private activity from action carrying public capacity.
+Or, more directly:
+State Action is the attribution gate between private injury and constitutional responsibility.
+The gate is hard because the world is not clean.
+Public and private systems touch constantly. Governments contract with private entities. Private actors rely on public rules. Public officials have private lives. Private institutions perform socially important functions. Public systems encourage, regulate, fund, license, or depend on private actors. Private actors sometimes invoke public authority. Public authority sometimes hides behind private form.
+So the doctrine cannot simply ask:
+Was the actor public or private?
+It has to ask:
+What capacity was the actor using?
+That is the physiology of it.
+A hand can move privately. A hand can move officially. A hand can move under delegated authority. A hand can move because the body’s nervous system sent the signal. A hand can also pretend the body sent the signal when it did not.
+The visible movement is not enough.
+The question is whether the movement belongs to the civic body.
+5. What Suddenly Made Sense
+The click for me was this:
+State Action is not asking only who physically acted. It is asking what authority moved through the act.
+That distinction solves a lot of confusion.
+A private person can claim authority. That does not automatically make the claim constitutional.
+A private person can be powerful. That does not automatically make the power public.
+A private institution can affect public life. That does not automatically make the institution the State.
+But when public authority travels through private form, the Constitution has to see it.
+That may be the doctrine’s deepest burden.
+It has to prevent two mistakes at the same time.
+The first mistake is treating every serious harm as constitutional just because the harm is serious.
+The second mistake is letting public authority avoid constitutional accountability by changing costumes.
+So State Action is not a denial that private harm matters.
+It is a refusal to confuse harm with constitutional attribution.
+And it is also a refusal to let constitutional attribution disappear just because public power has moved through a private-looking channel.
+This is why claimed authority is not the same as public authority.
+If a private person falsely claims to act for the State, that may be fraud, threat, impersonation, intimidation, coercion, or another wrong. But State Action asks a further question:
+Did the civic body supply, authorize, delegate, enable, ratify, or carry the authority behind the act?
+If not, the claim may be wrongful without becoming constitutional.
+If yes, the private-looking form may not be enough to keep constitutional responsibility away.
+That is the discipline.
+The doctrine is trying to locate the owner of public authority.
+6. The Boundary
+The boundary lives between private harm and publicly attributable action.
+Or, in the language that helped me most:
+private capacity
+and
+public capacity
+A person can act in a private capacity.
+A company can act in a private capacity.
+A school, hospital, platform, employer, association, contractor, or official can act in a private capacity.
+But a person or institution can also act with public capacity, or with authority that is meaningfully traceable to the civic body.
+State Action is the doctrine that tries to tell the difference.
+That boundary has to be held carefully.
+If the boundary is too loose, constitutional law starts to absorb everything. Every serious private wrong begins to look like a constitutional case. Every powerful private actor begins to look like the State. The Constitution becomes a general law of interpersonal wrongs.
+That would break the structure.
+Private life has to remain real. Private responsibility has to remain real. Other bodies of law have to remain real. The Constitution cannot become the direct regulator of every harm that occurs inside society.
+But if the boundary is too tight, public power can hide.
+Government can delegate a function, encourage a result, work through a private partner, outsource a public duty, or ratify a private-looking action, and then say:
+That was not us.
+That would also break the structure.
+Public responsibility has to remain accountable. The State cannot avoid constitutional limits by sending public authority through a private channel.
+So the boundary does real work.
+State Action protects private space while preventing public responsibility from laundering itself through private form.
+That may be the cleanest way I can say it.
+7. The Duality
+State Action holds two truths at once.
+First:
+Private space must remain real.
+The Constitution cannot directly govern every private wrong. That is not indifference. It is boundary discipline. A constitutional order that treats every harm as State Action loses the distinction between public authority and private life.
+Second:
+Public responsibility must remain accountable.
+The State cannot avoid constitutional limits by delegating, encouraging, entangling, outsourcing, ratifying, or disguising public power as private conduct. A constitutional order that lets public power vanish into private form loses the ability to hold public authority responsible.
+Both truths matter.
+If we forget the first, State Action dissolves outward. Everything becomes constitutional too quickly.
+If we forget the second, State Action locks inward. Private form becomes a shield around public power.
+So the doctrine is not just a gate. It is a dual boundary.
+It has to say no when the Constitution is being asked to absorb private harm too quickly.
+It also has to say yes when public authority is actually present, even if the actor’s form looks private.
+That is why the doctrine can be frustrating. It is trying to preserve a distinction that must remain real, while also preventing that same distinction from becoming an escape route.
+The compression is:
+Not every harm belongs to the Constitution. But public power cannot escape the Constitution by changing clothes.
+8. How It Fails in the Real World
+State Action can fail in both directions.
+One failure moves outward.
+Every serious private harm begins to look constitutional. Every powerful private actor begins to look like the State. Every injury inside society becomes a candidate constitutional claim just because the injury is serious.
+That is over-attribution.
+The danger is that the public/private boundary dissolves. The Constitution becomes a general harm code. Private wrongdoing no longer remains private wrongdoing. Other kinds of law and responsibility lose their own space.
+The other failure moves inward.
+Public authority passes through private form and then disappears from constitutional view. A government delegates, encourages, entangles, outsources, ratifies, or works jointly through a private actor, and then the system treats the result as merely private.
+That is under-attribution.
+The danger is that public power becomes harder to see precisely when constitutional accountability matters most.
+Both failures are serious.
+The first turns private harm into constitutional harm too quickly.
+The second lets public authority escape constitutional responsibility too easily.
+So State Action fails when the system either constitutionalizes private harm too easily or lets public authority disappear into private form.
+The hard work is not choosing one danger and ignoring the other.
+The hard work is holding the attribution boundary.
+Those two broad directions do not exhaust every way the doctrine can break. They name the main pressure. The failure signatures below give a more granular map of how that pressure can appear. 
+9. Failure Signatures
+I am using these as structural diagnostics, not as doctrinal elements.
+They are not a replacement for the legal tests. They are a way of seeing what kind of State Action problem may be happening.
+Dissolution — the public/private boundary dissolves
+Dissolution appears when the difference between private wrong and public act no longer holds.
+It can run outward, when every serious private harm begins to look constitutional. It can also run inward, when public authority is too easily redescribed as private. In either direction, the boundary loses shape.
+Plainly:
+The system loses the difference between private wrong and public act.
+Shear — harm and attribution split apart
+Shear appears when the harm is real, but constitutional responsibility does not attach.
+The injured person may face a serious wrong. The coercion may feel official. The result may be damaging. But the public authority link does not connect, or cannot be shown.
+Plainly:
+The injury is visible, but constitutional responsibility does not attach.
+This may be the hardest human-facing part of State Action. The doctrine can tell a person:
+Yes, something happened.
+Yes, it may have been wrong.
+No, that does not mean the Constitution owns it.
+That can feel like denial. Structurally, it is attribution discipline. But the pain of the split is real.
+Drift — private form starts carrying public power
+Drift appears when public authority begins moving through private channels without being named.
+A private actor gradually becomes functionally public in a context. A public function migrates into private hands. A public system relies on private enforcement, private discretion, private infrastructure, or private intermediaries until the action no longer looks cleanly private.
+Plainly:
+Public power starts moving under private cover.
+Drift is dangerous because it can happen slowly. The form stays private while the function begins to carry public weight. By the time the structure is visible, public power may already have migrated into a private channel.
+Echo — responsibility bounces between public and private actors
+Echo appears when each actor points somewhere else.
+The government says:
+That was private.
+The private actor says:
+We were following the public structure.
+The public system says:
+We only regulated, funded, licensed, or encouraged.
+The private system says:
+We only implemented what the public system made possible.
+The person’s signal circulates between actors without finding an accountable owner.
+Plainly:
+Everyone points somewhere else.
+Echo is the failure where the harm keeps being heard, but not owned.
+Lock — private form blocks constitutional accountability
+Lock appears when “private actor” hardens into a shield even though public authority supplied, enabled, delegated, encouraged, ratified, or carried the action.
+The classification stops being a boundary and becomes a wall.
+The system says:
+Private actor.
+And that label ends the inquiry too early.
+Plainly:
+Private form becomes a shield for public power.
+This is the sharp accountability failure. The Constitution is supposed to restrain public authority. If public authority can avoid restraint by wearing private clothes, the boundary has become a hiding place.
+10. The Human-Cell Side
+From the person’s side, State Action can feel maddening.
+The harm may be real.
+The coercion may feel official.
+The actor may appear to carry authority.
+The consequences may shape civic life.
+But the court may still ask:
+Did the constitutional civic body own this act?
+That question can feel cold. It can sound like the system is more interested in classification than injury.
+But the question has a structural reason.
+If every real harm becomes constitutional, the public/private boundary dissolves. The Constitution stops being a discipline of public authority and becomes a general law of harm.
+That would not be stable.
+But the opposite pain is just as real.
+When public power hides behind private form, the person is harmed by the civic body while being told the civic body was not there.
+That may be the sharpest human-facing failure in State Action.
+The person is not only injured. The person is mislocated.
+They experience public power, but the system names the actor private.
+That felt experience matters humanly, but it does not by itself establish constitutional attribution. Perceived authority is not the same thing as authority traceable to the civic body.
+The person may experience civic authority while the doctrine says attribution has not attached.
+They may experience the body, but be told they were touched only by a private cell.
+That is why State Action matters.
+It is not a technical side door. It is one of the places where constitutional law decides whether the person’s injury belongs to public power or to some other field of responsibility.
+The question is not whether the person matters.
+The question is whether the civic body owns the act.
+11. What This Explains and What It Does Not
+This framing explains why harm alone is not enough.
+That is the first thing.
+State Action does not ask only whether someone was injured. It asks whether the injury is constitutionally attributable to public authority. That distinction can be painful, but without it the Constitution becomes a general remedy for every serious private wrong.
+This framing also explains why the public/private distinction matters.
+The distinction is not just formalism. It protects private space from being swallowed by constitutional litigation, and it protects public accountability from being hidden by private form.
+It explains why contractors, delegated functions, public-private partnerships, and entanglement cases are hard.
+Those cases are hard because public authority and private form are both present. The court has to decide whether the private-looking actor is carrying enough public capacity that the civic body owns the act.
+It explains why official capacity matters.
+An official may have private life and public office in the same person. The body is the same human body, but the constitutional question is about capacity. Was the person acting privately, or through authority made possible by public office?
+It explains why constitutional accountability can disappear if attribution is too narrow.
+If the doctrine sees only private form, public power can move through contractors, partners, institutions, delegated functions, or off-duty officials without constitutional responsibility following it.
+It also explains why private life can be swallowed if attribution is too broad.
+If the doctrine sees public authority everywhere, private wrongdoing stops being private wrongdoing. The Constitution becomes the first answer to every injury instead of the specific discipline of public power.
+So the framing helps me see the doctrine’s job.
+But it does not make the hard cases easy.
+It does not decide every State Action dispute.
+It does not tell us exactly how much entanglement is enough.
+It does not tell us exactly when encouragement becomes compulsion, when regulation becomes responsibility, when funding becomes ownership, or when a public function has been delegated strongly enough that the private actor carries civic-body authority.
+Those questions remain hard.
+The structural lens does not replace the doctrine. It makes the doctrine legible.
+The doctrine is trying to answer a narrow but demanding question:
+When does private-looking conduct carry public authority strongly enough that constitutional responsibility attaches?
+That is the object.
+12. Closing Thought
+By the end, the ownership question has become more precise.
+State Action asks when public authority moved through the act strongly enough that constitutional responsibility follows. 
+A harm can be real without being constitutional.
+A private actor can be powerful without becoming the State.
+A public official can have private life without every act becoming official.
+But public authority can also travel through private form.
+A government can delegate, entangle, encourage, compel, outsource, ratify, or enable enough that private-looking conduct begins to carry public capacity.
+When that happens, the Constitution has to see it.
+The doctrine is not asking only who moved first.
+It is asking whose authority moved through the act.
+That is why State Action matters.
+It protects private space from being constitutionalized too quickly.
+It protects constitutional accountability from being evaded too easily.
+It tells the harmed person a difficult truth: real harm is not always constitutional harm.
+But it also tells public power a necessary truth: public authority remains accountable even when it wears private clothes.
+Once I saw that, State Action stopped sounding like a technical escape hatch.
+It started sounding like the constitutional discipline of attribution:
+private harm stays private unless public authority is really there, and public authority remains accountable when it moves through private form strongly enough for the civic body to own the act.
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, and clarity. All substantive arguments, theoretical claims, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
